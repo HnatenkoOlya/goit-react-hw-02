@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+.divA {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 9px 9px 9px rgba(0, 0, 0, 0.2);
+  border: 5px solid #a9daf6;
+  background-color: #ccddef;
+}
